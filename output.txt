@@ -1,0 +1,33 @@
+Script started on Fri 29 Sep 2017 09:13:06 AM EDT
+xwang345@matrix:~/OOP345/OOP345_W3> ws gutenberg_shakespeare
+Constructor      0.000 seconds - a.size = 0
+file 'gutenberg_shakespeare' contains 124456 lines
+0<-- good: true if none of the flags is set
+1<-- fail: true if ios::failbit or ios::badbit is true
+1<-- eof: true if ios::eofbit is true
+0<-- bad: true if ios::badit is true
+clearing all status flags
+1<-- good: true if none of the flags is set
+0<-- fail: true if ios::failbit or ios::badbit is true
+0<-- eof: true if ios::eofbit is true
+0<-- bad: true if ios::badit is true
+   line 1--->This is the 100th Etext file presented by Project Gutenberg, and<--
+   line 2--->is presented in cooperation with World Library, Inc., from their<--
+   line 3--->Library of the Future and Shakespeare CDROMS.  Project Gutenberg<--
+   line 4--->often releases Etexts that are NOT placed in the Public Domain!!<--
+   line 5---><--
+   line 6--->Shakespeare<--
+   line 7---><--
+   line 8--->*This Etext has certain copyright implications you should read!*<--
+   line 9---><--
+   line 10---><<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM<--
+Constructor      0.140 seconds - b.size = 124456
+Copy Assignment  0.070 seconds - a.size = 124456
+Move Assignment  0.030 seconds - a.size = 124456
+Copy Constructor 0.060 seconds - c.size = 124456
+Move Constructor 0.000 seconds - d.size = 124456
+Destructor       0.070 seconds
+xwang345@matrix:~/OOP345/OOP345_W3> exit
+exit
+
+Script done on Fri 29 Sep 2017 09:13:34 AM EDT
