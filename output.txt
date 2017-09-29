@@ -1,4 +1,4 @@
-Script started on Fri 29 Sep 2017 09:13:06 AM EDT
+Script started on Fri 29 Sep 2017 10:44:53 AM EDT
 xwang345@matrix:~/OOP345/OOP345_W3> ws gutenberg_shakespeare
 Constructor      0.000 seconds - a.size = 0
 file 'gutenberg_shakespeare' contains 124456 lines
@@ -22,12 +22,12 @@ clearing all status flags
    line 9---><--
    line 10---><<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM<--
 Constructor      0.140 seconds - b.size = 124456
-Copy Assignment  0.070 seconds - a.size = 124456
-Move Assignment  0.030 seconds - a.size = 124456
+Copy Assignment  0.060 seconds - a.size = 124456
+Move Assignment  0.020 seconds - a.size = 124456
 Copy Constructor 0.060 seconds - c.size = 124456
 Move Constructor 0.000 seconds - d.size = 124456
-Destructor       0.070 seconds
+Destructor       0.060 seconds
 xwang345@matrix:~/OOP345/OOP345_W3> exit
 exit
 
-Script done on Fri 29 Sep 2017 09:13:34 AM EDT
+Script done on Fri 29 Sep 2017 10:45:16 AM EDT

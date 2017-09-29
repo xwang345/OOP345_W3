@@ -6,7 +6,7 @@
 
 using namespace w3;
 
-size_t Text::size() { return count; }
+size_t Text::size() const { return count; }
 
 void Text::dump() {
    size_t number = count;

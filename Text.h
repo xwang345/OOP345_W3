@@ -11,7 +11,7 @@ namespace w3 {
       std::string* lineTable;
 
    public:
-      size_t size();
+      size_t size() const;
 
       void dump();
 
